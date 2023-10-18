@@ -2,7 +2,7 @@
 **helo**
 
 
-![láncfűrész](image.jpg)
+![láncfűrész](log-cutter-2192640_1280.png)
 
 
 
